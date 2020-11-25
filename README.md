@@ -30,6 +30,12 @@ ghost_sa(鬼策)可以理解为不带前端界面的神策服务端。
 SDK可以在神策的项目中下载 https://github.com/sensorsdata
 SDK的使用方法，可以直接查看神策官方文档 https://www.sensorsdata.cn/manual/
 
+python环境需要
+
+pip install python-geoip-geolite2 -i https://pypi.douban.com/simple
+
+pip install geoip2
+
 
 框架说明：
 

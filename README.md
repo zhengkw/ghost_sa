@@ -81,6 +81,12 @@ pip install geoip2
 更多文档可以看 wiki  https://github.com/white-shiro-bai/ghost_sa/wiki
 
 
+geoip2环境安装
+
+pip install python-geoip-geolite2 -i https://pypi.douban.com/simple
+
+pip install geoip2
+
 
 国内用户可以加我微信 Ben_Xiaobai ，加入鬼策微信群
 
